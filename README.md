@@ -28,3 +28,6 @@ To obtain the Episcores you can use the code at [bAge](https://github.com/elenab
    
 ## Contact
 For any questions or issues, please contact Daniele Bizzarri at d.bizzarri@lumc.nl or Erik van den Akker at e.b.van_den_akker@lumc.nl.
+
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You are free to use, modify, and distribute this code for non-commercial purposes only.
